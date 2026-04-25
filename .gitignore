@@ -27,8 +27,9 @@ ENV/
 ehthumbs.db
 Thumbs.db
 
-# --- My Project Specific ---
-# If you generate large plots or CSVs that shouldn't be on GitHub
 *.png
 *.jpg
 *.csv
+*.pth
+*.html
+dataset/
